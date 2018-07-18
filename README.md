@@ -1,12 +1,12 @@
 # Thiago Marinho de Oliveira (currículo)
 
-<img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
+<img src="https://avatars3.githubusercontent.com/u/380327?s=400&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" />
 
 Place: Dourados/MS | Age: 30 anos
 
 I am passionate Software Developer, with experience Java Web, enthusiatic Javascript, Meteor, Node, React and PWA.
 
-blog: [http://www.danillocesar.com.br](http://www.danillocesar.com.br "Blog pessoal")  
+medium: [https://medium.com/@tgmarinho](https://medium.com/@tgmarinho "Blog pessoal")  
 twitter: [@tgmarinho](http://twitter.com/tgmarinho "professional")  
 github: [https://github.com/tgmarinho](https://github.com/tgmarinho "pessoal") 
 
