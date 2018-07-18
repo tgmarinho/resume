@@ -1,6 +1,6 @@
 # Thiago Marinho de Oliveira (currículo)
 
-<img src="https://avatars3.githubusercontent.com/u/380327?s=400&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" />
+<img src="https://avatars3.githubusercontent.com/u/380327?s=400&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4&size=50x50" />
 
 Place: Dourados/MS | Age: 30 anos
 
